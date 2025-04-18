@@ -12,7 +12,7 @@ This is a custom WordPress website developed for Dizify. The project focused on 
 - Custom Post Types
 
 ## Live Preview
-[https://dizify.com.b/](https://dizify.com.br/)
+[https://dizify.com.br/](https://dizify.com.br/)
 
 ## My Role
 - Full website development
